@@ -74,4 +74,4 @@ for name in south:
 			#	file_obj.write(cells[0].a.text.strip() + "\n")
 
 file_obj.close()
-file_obj_test.close()
+#file_obj_test.close()
